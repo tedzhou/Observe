@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<script src="observe.js">
+
+</script>
+<script>
+
+    var a = new Observe({name: 'ted'});
+    var b = new Observe({name: 'zhou'});
+
+    a.bind('change', function (type, o, n) {
+        console.log('change 自己');
+        console.log(type == 'change');
+        console.log(o == 'ted');
+        console.log(n == 'me')
+    });
+
+    Observe.compute(function () {
+        return a.attr('name') + b.attr('name');
+    }).bind('change', function (type, o, n) {
+                console.log('computed 测试')
+                console.log(type == 'change');
+                console.log(o === 'ted' + 'zhou');
+                console.log(n === 'me' + 'zhou');
+            });
+
+    console.log('/*读测试*/');
+    console.log(a.attr('name') === 'ted');
+
+    console.log('change测试');
+    a.attr('name', 'me');
+
+</script>
+</body>
+</html>

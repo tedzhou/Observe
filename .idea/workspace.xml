@@ -112,10 +112,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="observe.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="observe.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/observe.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="18" selection-start="794" selection-end="794" vertical-scroll-proportion="0.37080103">
+            <state line="48" column="18" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="READEME" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/READEME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="28" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2997416">
               <folding />
             </state>
           </provider>
@@ -429,7 +438,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/observe.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="18" selection-start="794" selection-end="794" vertical-scroll-proportion="0.37080103">
+        <state line="48" column="18" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/READEME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="28" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2997416">
           <folding />
         </state>
       </provider>

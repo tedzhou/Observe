@@ -112,19 +112,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="observe.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="observe.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/observe.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="18" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="READEME" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/READEME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="28" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2997416">
+            <state line="52" column="16" selection-start="959" selection-end="959" vertical-scroll-proportion="0.21229868">
               <folding />
             </state>
           </provider>
@@ -166,8 +157,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="809" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -195,7 +187,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -206,7 +198,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,11 +213,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -315,7 +307,7 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="809" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -403,6 +395,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/observe.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="18" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observe_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="30" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observe.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="11" selection-start="550" selection-end="557" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -438,14 +444,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/observe.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="18" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/READEME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="28" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2997416">
+        <state line="52" column="16" selection-start="959" selection-end="959" vertical-scroll-proportion="0.21229868">
           <folding />
         </state>
       </provider>
